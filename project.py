@@ -50,7 +50,7 @@ goalNode = 18
 print("startNode :"),
 print(initialNode)
 print("goalNode :"),
-print(goalNodes)
+print(goalNodess)
 
 # finds the manhattan distance between input indicies
 def Heuristic(source, target):
